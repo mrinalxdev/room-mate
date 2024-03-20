@@ -14,7 +14,7 @@ export default function Home() {
           different themes for your room
         </p>
         <Link href={"/room"}>
-          <button className="bg-blue-500 hover:opacity-90 text-black font-semibold py-3 px-5 rounded-lg">
+          <button className="bg-blue-500 hover:opacity-90 text-white font-semibold py-3 px-5 rounded-lg">
             Redesign your room
           </button>
         </Link>
